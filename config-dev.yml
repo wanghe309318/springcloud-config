@@ -1,4 +1,4 @@
 service:
  port: 8082
- info: master branch,springcloud-config/config-dev.yml version=12
+ info: master branch,springcloud-config/config-dev.yml version=121
  
